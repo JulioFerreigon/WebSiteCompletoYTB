@@ -5,7 +5,7 @@ construção de website baseado em um passo-a-passo do ytb
 
 O controle das taferas desse projeto será realizado no GitHub
 
-## Icones
+## Icones Atalhos
 
 :package: nova funcionalidade
 :up: atualização
