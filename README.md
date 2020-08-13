@@ -7,7 +7,7 @@ O controle das taferas desse projeto será realizado no GitHub
 
 ## Icones
 
-:packege: nova funcionalidade
+:package: nova funcionalidade
 :up: atualização
-:beatle: correção de bug
+:bug: correção de bug
 :checkered_flag: release
